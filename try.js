@@ -1,2 +1,4 @@
-let nums = [ 1,2,3,4]
-console.log(nums.length)
+let string = "Hello Walker"
+
+let sub = string.slice(0,5);
+console.log(sub)
