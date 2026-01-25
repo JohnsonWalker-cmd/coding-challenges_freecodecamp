@@ -35,4 +35,3 @@ function isValidHex(str) {
   return true;
 }
 
-isValidHex("#1234567")
