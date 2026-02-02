@@ -11,9 +11,6 @@ function arrayswap(arr){
 
         left = left + 1 ; // increase left by one
         right = right - 1 ; // decrease right by one
-
-
-        
     }
 
     return arr;
